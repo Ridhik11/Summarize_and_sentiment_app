@@ -12,3 +12,8 @@ pinned: false
 license: mit
 short_description: Get summary and sentiment of your text.
 ---
+
+Use the following link to access the app:
+
+https://huggingface.co/spaces/raptor1/Summarize_and_Sentiment
+
